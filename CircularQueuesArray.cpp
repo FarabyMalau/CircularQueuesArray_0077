@@ -124,6 +124,17 @@ int main()
 
     while (true)
     {
-        
+      try
+      {
+        cout << "Menu" << endl;
+        cout << "1. Implemen insert operation" << endl;
+        cout << "2. Implemen delete operation" << endl;
+        cout << "3. Display value" << endl;
+        cout << "4. Exit" << endl;
+        cout << "Enter your choice (1-4): ";
+        cin >> ch;
+        cout << endl;
+
+      } 
     }
 }
