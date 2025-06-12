@@ -113,7 +113,17 @@ class Queues
                     FRONT_position++;
                 }
                 cout << endl;
-
-
-
+            }
+        }
 };
+
+int main()
+{
+    Queues q;
+    char ch;
+
+    while (true)
+    {
+        
+    }
+}
